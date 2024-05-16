@@ -1165,7 +1165,7 @@ p.comment-form-email, p.comment-form-author, p.comment-form-url {
 	}
   .pagearea h1.page-headline:after {
     content: '';
-    width: 50%;
+    width: 91%;
     color: rgba(255,255,255,0.4);
     margin-top: 20px;
     border-bottom: double medium;
