@@ -558,7 +558,7 @@ a.fullpricelist {
     width: 400px;
     height: 400px;
     background: rgba(6, 6, 6, 0.5);
-    color:rgba(255,255,255,0.5);
+    color:rgba(250, 248, 248, 0.5);
     border-radius: 100%;
 	margin-left:-60px;	
 }
@@ -573,7 +573,7 @@ a.fullpricelist {
 	border-bottom:1px solid #555;
 	font-family:Oswald;
 	padding:10px 0;
-	color:rgba(241, 229, 90, 0.5);
+	color: white;
 }
 
 .contactform input.btnsend {
